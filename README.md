@@ -5,7 +5,7 @@ I did a project at Thinkful's Software Engineering Bootcamp. While working on it
 
 * This demonstration shows users how to encode and decode messages using Caser Shift and passing the unit test with Mocha and Chai
 
-https://github.com/LiliaRibac/Decoder_Ring/assets/43895766/fc23d798-99cb-4670-8ca3-7483092e201f
+https://github.com/LiliaRibac/Decoder_Ring/assets/43895766/db02aa3f-1f38-4c8f-a029-64e8a515d537
 
 
 https://github.com/LiliaRibac/Decoder_Ring/assets/43895766/60df0f1e-8e64-44c1-a704-1fb4d5540704
